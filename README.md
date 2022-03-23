@@ -1,3 +1,2 @@
-![Data Science](https://user-images.githubusercontent.com/75175276/159675173-1c4bdf7b-9296-4c46-9fda-853e18a13b19.jpeg)
+![Data Science](https://user-images.githubusercontent.com/75175276/159681175-284b7cdc-8e76-4b9b-a0aa-f611f149e692.jpeg)
 
-Greetings Respected viewers 
