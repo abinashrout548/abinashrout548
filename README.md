@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @abinash
-- 👀 I’m interested in ...SQL
-- 🌱 I’m currently learning Data Scientist
-<!---
-abinashrout548/abinashrout548 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![Data Science](https://user-images.githubusercontent.com/75175276/159675173-1c4bdf7b-9296-4c46-9fda-853e18a13b19.jpeg)
