@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Java**
 
-- 💬 Ask me about **Python, MySQL,SQL SERVER Pandas**
+- 💬 Ask me about **Python, MySQL,SQL SERVER Pandas** 
 
 - 📫 How to reach me **abinashrout584@gmail.com**
 
