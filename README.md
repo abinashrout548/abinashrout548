@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abinash Rout</h1>
 <h3 align="center">I am a Data Science enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of Full-Stack Data Science.</h3>
 
-- 🌱 I’m currently learning **Data Science,  Java**
+- 🌱 I’m currently learning **Data Science, Java**
 
 - 💬 Ask me about **Python, MySQL,SQL SERVER Pandas** 
 
