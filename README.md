@@ -8,7 +8,6 @@
 - 💬 Ask me about **Python, MySQL,SQL SERVER Pandas**
 
 - 📫 How to reach me **abinashrout584@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhi_07770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhi_07770" height="30" width="40" /></a>
