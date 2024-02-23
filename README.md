@@ -1,4 +1,4 @@
-![Data Science](https://user-images.githubusercontent.com/75175276/159681175-284b7cdc-8e76-4b9b-a0aa-f611f149e692.jpeg).
+![Data Science](https://user-images.githubusercontent.com/75175276/159681175-284b7cdc-8e76-4b9b-a0aa-f611f149e692.jpeg)
 
 <h1 align="center">Hi 👋, I'm Abinash Rout</h1>
 <h3 align="center">I am a Data Science enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of Full-Stack Data Science.</h3>
