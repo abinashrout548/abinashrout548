@@ -9,5 +9,5 @@
 
 🔗 **Connect with me:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abinashrout548/)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: abinashrout584@gmail.com  
 
