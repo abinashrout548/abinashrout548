@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Data Enthusiast | Python & SQL Expert**
 
-- 🔹 Working with **SQL, Python, and Azure Data Factory**
+- 🔹 Working with **SQL, Python, Java Script and Azure Data Factory**
 - 📌 Focused on **Data Engineering & Backend Development**
 - 🎯 Building **ETL Pipelines, Data Migrations, and Web Applications**
 - 📖 Teaching SQL on [YouTube](#)
