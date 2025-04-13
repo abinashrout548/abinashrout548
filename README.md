@@ -8,6 +8,6 @@
 - 📖 Teaching SQL on [YouTube](https://www.youtube.com/@abinashrout2043/videos)
 
 🔗 **Connect with me:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abinashrout548/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abinash-rout-bb272b168/)
 - 📧 Email: abinashrout584@gmail.com  
 
