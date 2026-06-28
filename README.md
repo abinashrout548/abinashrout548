@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abinash%20Rout&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Azure&descAlignY=60&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abinash+Rout!+%F0%9F%91%8B;Business+Analyst+%40+IDFC+FIRST+Bank;Data+Engineer+in+Transition;Python+%7C+SQL+%7C+Azure+Data+Factory;ETL+Pipelines+%7C+Data+Migration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abinash+Rout!+%F0%9F%91%8B;Infra+%26+Application+Engineer+%40+IDFC+FIRST+Bank;Data+Engineer+in+Transition;Python+%7C+SQL+%7C+Azure+Data+Factory;ETL+Pipelines+%7C+Data+Migration)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me — Abinash Rout
 
-> **Infra & Product Engineer @ IDFC FIRST Bank | Aspiring Data Engineer | Mumbai, India**
+> **Infra & Application Engineer @ IDFC FIRST Bank | Aspiring Data Engineer | Mumbai, India**
 
 I'm **Abinash Rout**, a data-driven professional passionate about turning raw data into meaningful insights and scalable pipelines. I work at the intersection of **business analysis and data engineering** — building ETL solutions, automating data workflows, and constantly leveling up my tech stack.
 
